@@ -1,3 +1,5 @@
 streamlit
+deep_translator
+pytesseract
+Pillow
 requests
-pillow
