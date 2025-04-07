@@ -1,0 +1,9 @@
+[theme]
+base="light"
+
+[server]
+maxUploadSize = 10
+
+[client]
+showSidebarNavigation = false
+toolbarMode="minimal"
