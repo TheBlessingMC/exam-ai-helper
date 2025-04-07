@@ -1,5 +1,5 @@
 streamlit
-deep_translator
+deep_translator==1.11.4
 pytesseract
 Pillow
 requests
